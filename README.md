@@ -56,7 +56,7 @@ This allows you to convert animations you **don’t own**, **can’t edit**, or 
 
 ---
 
-## 🛠 How It Works
+## How It Works
 
 ### 1. Export Phase (In-Game)
 - The script detects animations from:
