@@ -2,6 +2,14 @@
 
 A animation utility for **Roblox Studio** that lets you **extract, serialize, and re-import animations** as fully editable `KeyframeSequence` objects — with **selection-based exporting** and a dedicated **Studio plugin importer**.
 
+## Main Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yerastu/AnimConverser-Spoofer/refs/heads/main/Main/source.lua"))()
+```
+
+## Plugin
+** https://create.roblox.com/store/asset/121841856847771/RoConv **
+
 ---
 
 ##  Overview
