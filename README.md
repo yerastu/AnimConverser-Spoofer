@@ -4,7 +4,7 @@ A animation utility for **Roblox Studio** that lets you **extract, serialize, an
 
 ---
 
-## ✨ Overview
+##  Overview
 
 **AnimConvser V9** is a two-part animation workflow tool:
 
