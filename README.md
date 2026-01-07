@@ -8,7 +8,7 @@ A animation utility for **Roblox Studio** that lets you **extract, serialize, an
 
 **AnimConvser V9** is a two-part animation workflow tool:
 
-1. **In-game LocalScript (Exporter)**  
+1. **Main Script (Run In a Executor) (Exporter)**  
    Scans active and stored `Animation` objects, previews them on your character, and exports selected animations into a serialized JSON format.
 
 2. **Roblox Studio Plugin (Importer)**  
